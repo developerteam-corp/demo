@@ -1,8 +1,5 @@
 
-# proprietary index
-
-This project is build for the management of notes.
-It is an Internal insurance platform that guides you through the process of managing notes, like requesting ISIN, sending email to director, managing documents, going through all steps and finally submission.
+# DEMO
 
 ## Available Scripts
 
